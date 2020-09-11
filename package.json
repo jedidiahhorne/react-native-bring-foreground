@@ -4,7 +4,7 @@
     "name": "Jed Horne",
     "email": "jed@packen.co"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fork of react-native-bring-foreground to fix issues with package name",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "react-native-launch-application",
     "react-native-launch-application-foreground"
   ],
-  "homepage": "https://github.com/HarishDevadiga/react-native-bring-foreground",
+  "homepage": "https://github.com/jedidiahhorne/react-native-bring-foreground",
   "author": {
     "name": "Harish Devadiga",
     "email": "harishdevadiga006@gmail.com"
@@ -25,7 +25,11 @@
     {
       "name": "harish",
       "email": "harishdevadiga006@gmail.com"
-    }
+    },
+    {
+      "name": "Jed",
+      "email": "jed@packen.co"
+    },
   ],
   "peerDependencies": {
     "react-native": "^0.41.2",
