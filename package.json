@@ -29,7 +29,7 @@
     {
       "name": "Jed",
       "email": "jed@packen.co"
-    },
+    }
   ],
   "peerDependencies": {
     "react-native": "^0.41.2",
