@@ -4,7 +4,7 @@
     "name": "Jed Horne",
     "email": "jed@packen.co"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fork of react-native-bring-foreground to fix issues with package name",
   "main": "index.js",
   "scripts": {
