@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.reactlibrary.LaunchApplication;
 
 import android.app.KeyguardManager;
 import android.content.Context;
