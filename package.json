@@ -1,11 +1,11 @@
 {
-  "name": "react-native-bring-foreground",
+  "name": "@jedhorne/react-native-bring-foreground",
   "_npmUser": {
-    "name": "harish",
-    "email": "harishdevadiga006@gmail.com"
+    "name": "Jed Horne",
+    "email": "jed@packen.co"
   },
-  "version": "0.0.3",
-  "description": "launch react native application which is in background to foreground",
+  "version": "0.0.1",
+  "description": "fork of react-native-bring-foreground to fix issues with package name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
